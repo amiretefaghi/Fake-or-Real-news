@@ -28,6 +28,6 @@ Counter vectorizer with TF-IDF transformer
 
 Machine learning model training and verification
 
-##Machine Learning models
+## Machine Learning models
 
 In this project we have used passive aggressive classifier, Support Vector Machine and Logistic Regression
