@@ -6,6 +6,8 @@ The latter is possible through a natural language processing pipeline followed b
 
 There are many datasets out there for this type of application, but we would be using the one mentioned [here](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view). The data contains about 7500+ news feeds with two target labels: fake or real. The dataset also consists of the title of the specific news piece. 
 
+## Implementation process
+
 The steps in the pipeline for natural language processing would be as follows:
 
 Acquiring and loading the data
